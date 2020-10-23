@@ -1,6 +1,6 @@
 ### Hi there, I am Vikas Soni 👋
-[Website]] <img align="left" alt="vikassoni.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(http://vikassoni.com)
-[Blog] <img align="left" alt="vikassoni.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(https://jsforall.com)
+[Website] <img align="left" alt="vikassoni.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(http://vikassoni.com)
+[Blog] (https://jsforall.com)
 
 <br />
 
